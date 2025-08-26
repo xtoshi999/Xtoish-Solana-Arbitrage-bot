@@ -1,4 +1,4 @@
-# ⚡ Solana Arbitrage Bot 
+# ⚡ Solana Arbitrage Bot 🤖
 
 A high-performance **Arbitrage Trading Bot** built for the Solana blockchain.  
 The bot leverages Solana’s ultra-fast transaction speeds and low fees to capture profitable opportunities across decentralized exchanges (DEXs).  
